@@ -1,7 +1,10 @@
 # slackjokebot
 using nodejs and slack- slackbot
 # @Jokebot
-
+# first step 
+In the index.js file on the bot defining section  do the following 
+1. add your token from slack API app- section Oauth> Bot User OAuth Access Token
+2. copy and replace it below 
 > Simple slackbot built with Node.js and Slackbots.js that tells random Chuck Norris and Yo Mama jokes.
 
 ## APIs Used:
